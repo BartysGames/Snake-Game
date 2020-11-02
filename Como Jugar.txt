@@ -1,0 +1,6 @@
+Ejecuten el archivo "sh" o "bat" dependiendo de su s.o.
+
+Si no les funciona, abran una consola (terminal - cmd), y pongan "pip install pygame"
+
+Despues le dan a "Jugar.sh - Jugar.bat"
+Si nos le funciona pongan en una consola python Snake.py
